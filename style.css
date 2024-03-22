@@ -1,0 +1,27 @@
+.red{
+    background-color: red;
+    height: 230px;
+    width: 400px;
+}
+.blue-middle{
+    background-color: blue;
+    height: 100px;
+    width: 400px;
+    top: -5px;
+    position: relative;
+}
+.white-circle{
+    background-color: white;
+    width: 95px;
+    height: 95px;
+    border-radius: 65px;
+    position: relative;
+    left: 150px;
+}
+#flag{
+    color: white;
+    font-size: 30px;
+}
+.of{
+    font-size: 35px;
+}
